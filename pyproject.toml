@@ -6,5 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "databento>=0.57.0",
+    "datalayer-pycrdt==0.12.17",
+    "dotenv>=0.9.9",
+    "jupyter-collaboration==4.0.2",
+    "jupyter-server>=2.16.0",
     "nautilus-trader>=1.218.0",
 ]
